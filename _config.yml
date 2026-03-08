@@ -1,0 +1,9 @@
+# 基本配置
+title: LYH12...
+description: 网站描述
+baseurl: ""  # 如果使用项目页面，可能需要设置
+url: "LYH.cn"      # 你的网站URL
+
+# 构建配置
+source: .    # 源文件目录
+destination: ./_site  # 输出目录
